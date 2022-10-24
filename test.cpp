@@ -2,9 +2,8 @@
 int main(){
 
 
-	std::cout<<"this is a test program";
-	std::cout<<"i am learning git branching"
-
+	std::cout<<"this is a test program"<<'\n';
+	std::cout<<"i am learning git branching"<<'\n';
+        std::cout<<"third line";
 return 0;
-}
 
